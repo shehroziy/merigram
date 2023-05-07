@@ -1,14 +1,16 @@
-import express from "express"
-import { Router } from "express"
-
-const router = Router()
+const express = require("express")
+const router = express.Router()
 
 router.get("/", (req, res)=>{
     res.send("hi")
 })
 
-router.post("signup", (req, res)=>{
-    console.log(req.body); 
+router.post("/signup", (req, res)=>{
+    const { name, email, password } = req.body;
+    if(!email || !password || !name){
+        res.status(422).json({err: "please add all the fields"})
+    }
+    res.json({msg: "succesfully sent"})
 })
 
-export default router
+module.exports = router

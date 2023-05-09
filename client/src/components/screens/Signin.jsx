@@ -22,7 +22,7 @@ export default function Signin() {
         </button>
 
         <p>
-          <Link to="signup">Do not have account</Link>
+          <Link to="/signup">Do not have account</Link>
         </p>
       </div>
     </div>

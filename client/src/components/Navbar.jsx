@@ -9,6 +9,7 @@ export default function Navbar() {
         <li><Link to="/signin">Kirish</Link></li>
         <li><Link to="/signup">Ro'yxatdan o'tish</Link></li>
         <li><Link to="/profile">Mening profilim</Link></li>
+        <li><Link to="/createpost">Maqola yozish</Link></li>
       </ul>
     </div>
   </nav>

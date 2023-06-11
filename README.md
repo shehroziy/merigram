@@ -9,6 +9,7 @@ npm start
 ```
 
 <p>server papkani ishga tushirish uchun</p>
+
 ```
 npm install
 npm run dev

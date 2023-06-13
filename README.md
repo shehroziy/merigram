@@ -3,7 +3,7 @@
 # Loyihani ishga tushirish uchun qo'llanma:
 <p>Client papkasini ishga tushirish uchun</p>
 
-``
+`
 npm install
 npm start
 ```

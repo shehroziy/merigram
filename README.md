@@ -14,6 +14,14 @@ npm start
 npm install
 npm run dev
 ``` 
-# Demo:
-<p>Home</p>
+# HOME
 <img src="./assets/home.png">
+
+# FRIENDS PROFILE
+<img src="./assets/friend.png">
+
+# LOGIN
+<img src="./assets/login.png">
+
+# SIGNIN
+<img src="./assets/signin.png"> 

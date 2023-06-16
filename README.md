@@ -15,6 +15,8 @@ npm install
 npm run dev
 ```
 
+### dotenv file ni ishlatishingiz mumkin
+
 <p>Serverda xatolik tufayli sayt serverga joylanmagan</p>
 
 # HOME

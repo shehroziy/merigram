@@ -28,5 +28,5 @@ npm run dev
 # LOGIN
 <img src="./assets/login.png">
 
-# SIGNIN
+# REGISTER
 <img src="./assets/signin.png"> 

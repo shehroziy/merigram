@@ -14,3 +14,6 @@ npm start
 npm install
 npm run dev
 ``` 
+# Demo:
+<p>Home</p>
+<img src="./assets/home.png">

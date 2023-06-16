@@ -13,7 +13,10 @@ npm start
 ```
 npm install
 npm run dev
-``` 
+```
+
+<p>Serverda xatolik tufayli sayt serverga joylanmagan</p>
+
 # HOME
 <img src="./assets/home.png">
 
